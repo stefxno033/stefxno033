@@ -6,6 +6,7 @@ I enjoy building practical software that combines solid engineering, data proces
 
 ## Links
 
+- Live portfolio: [skill-deploy-q8upzeqfrw-codex-agent-deploys.vercel.app](https://skill-deploy-q8upzeqfrw-codex-agent-deploys.vercel.app)
 - Portfolio: [portfolio-stefano-carbone](https://github.com/stefxno033/portfolio-stefano-carbone)
 - LinkedIn: [linkedin.com/in/stefano-carbone-225a84252](https://www.linkedin.com/in/stefano-carbone-225a84252)
 - GitHub: [github.com/stefxno033](https://github.com/stefxno033)

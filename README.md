@@ -24,6 +24,9 @@ Personal portfolio website built to present my background, selected university p
 ### [Java Order Book Client/Server](https://github.com/stefxno033/java-order-book-client-server)
 Concurrent Java project for managing buy/sell orders with TCP/UDP communication, JSON persistence, and order matching logic.
 
+### [Easy Booking](https://github.com/Stefxno0332/easy-booking)
+Booking web app built with React and Firebase, featuring user/admin modes, calendar management, offline support, and a live demo at [easy-booking-52608.web.app](https://easy-booking-52608.web.app/).
+
 ### [Bitcoin Web Scraping Analysis](https://github.com/stefxno033/bitcoin-webscraping-analysis)
 Data analysis project on Bitcoin transactions using Selenium, Jupyter Notebook, and Pandas to study mining pools and historical transaction patterns.
 

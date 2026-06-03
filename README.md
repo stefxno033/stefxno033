@@ -2,8 +2,6 @@
 
 Computer Science graduate from the University of Pisa with a focus on software development, backend systems, automation workflows, and applied AI.
 
-I enjoy building practical software that combines solid engineering, data processing, and interfaces that help people work better.
-
 ## Links
 
 - Live portfolio: [skill-deploy-cjvjaikpqn.vercel.app](https://skill-deploy-cjvjaikpqn.vercel.app/)
